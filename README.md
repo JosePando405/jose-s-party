@@ -11,15 +11,15 @@ Read the [API documentation](https://fsa-crud-2aa9294fe819.herokuapp.com/api/#ta
 For this workshop, you'll be starting from scratch! You are highly encouraged to reference previous solutions. Write JS to build an application that meets the following requirements:
 
 - `index.html` is not modified. All elements are generated via JS.
-- The application updates state by fetching an array of parties from the API.
-- The application renders a list of party names.
-- When a party name is clicked on, the application updates state by fetching information about a single party from the API.
-- The application renders the name, ID, date, description, and location of the selected party.
-- The application renders a message telling users to select a party if none is selected.
+<!-- - The application updates state by fetching an array of parties from the API. -->
+<!-- - The application renders a list of party names. -->
+<!-- - When a party name is clicked on, the application updates state by fetching information about a single party from the API. -->
+ <!-- - The application renders the name, ID, date, description, and location of the selected party. --> -->
+- The application renders a message telling users to select a party if none is selected. -->
 - Functions are used to organize logic involving state changes.
-- The application is rerendered whenever state changes.
-- UI elements are organized into component functions.
-- All thrown errors are explicitly caught with a try...catch statement.
+<!-- - The application is rerendered whenever state changes. -->
+<!-- - UI elements are organized into component functions. -->
+<!-- - All thrown errors are explicitly caught with a try...catch statement. -->
 
 ## Extensions
 
